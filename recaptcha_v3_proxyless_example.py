@@ -4,7 +4,7 @@ solver = recaptchaV3Proxyless()
 solver.set_verbose(1)
 solver.set_key("YOUR_KEY")
 solver.set_website_url("https://website.com")
-solver.set_website_key("SITE_KEY")
+solver.set_website_key("27785ca005a5ec1086e59c558c91541b")
 solver.set_page_action("home_page")
 solver.set_min_score(0.9)
 
